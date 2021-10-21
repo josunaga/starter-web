@@ -6,6 +6,7 @@ More changes
 ## Purpose
 
 Sample website with plenty of files for demos
+Now we are using Stash
 
 ## Deplyment
 Here you deploy
