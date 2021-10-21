@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 Here you deploy
 ###Copyright
 2014 Git.Training
+Update 2021
