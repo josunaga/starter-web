@@ -7,6 +7,7 @@ More changes
 
 Sample website with plenty of files for demos
 Now we are using Stash
+More Stash
 
 ## Deplyment
 Here you deploy
